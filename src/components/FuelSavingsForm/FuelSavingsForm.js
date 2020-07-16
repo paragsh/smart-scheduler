@@ -1,8 +1,8 @@
 import React from 'react';
 import {func} from 'prop-types';
-import FuelSavingsResults from './FuelSavingsResults';
-import FuelSavingsTextInput from './FuelSavingsTextInput';
-import {fuelSavings} from '../types';
+import FuelSavingsResults from '../FuelSavingsResults/FuelSavingsResults';
+import FuelSavingsTextInput from '../FuelSavingsTextInput/FuelSavingsTextInput';
+import {fuelSavings} from '../../types';
 
 const FuelSavingsForm = ({fuelSavings, onSaveClick, onChange}) => (
   <div>
