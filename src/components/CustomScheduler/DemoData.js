@@ -15,27 +15,27 @@ const DemoData = {
       name: 'Resource2',
       parentId: 'r3',
     },
-    // {
-    //   id: 'r3',
-    //   name: 'Resource3',
-    //   parentId: 'r1',
-    // },
-    // {
-    //   id: 'r4',
-    //   name: 'Resource4',
-    // },
-    // {
-    //   id: 'r5',
-    //   name: 'Resource5',
-    // },
-    // {
-    //   id: 'r6',
-    //   name: 'Resource6',
-    // },
-    // {
-    //   id: 'r7',
-    //   name: 'Resource7',
-    // }
+    {
+      id: 'r3',
+      name: 'Resource3',
+      parentId: 'r1',
+    },
+    {
+      id: 'r4',
+      name: 'Resource4',
+    },
+    {
+      id: 'r5',
+      name: 'Resource5',
+    },
+    {
+      id: 'r6',
+      name: 'Resource6',
+    },
+    {
+      id: 'r7',
+      name: 'Resource7',
+    }
   ],
   events: [
     {
