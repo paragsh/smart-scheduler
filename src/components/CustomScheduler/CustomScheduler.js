@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-// import withDragDropContext from './withDragDropContext';
 import Scheduler, {SchedulerData, ViewTypes} from 'react-big-scheduler'
 import DemoData from "./DemoData";
 import {DragDropContext} from "react-dnd";
